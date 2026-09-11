@@ -1,10 +1,12 @@
 # Báo cáo bài thực hành Ngày 1 – Đọc nhãn từ đầu ra YOLO11
 
-**Ngày chạy:**
+**Ngày chạy:** 11/09/2026
 
-**Runtime Colab:** CPU/GPU
+**Runtime Colab:** CPU
 
-**Python / PyTorch / Ultralytics:**
+**Python / PyTorch / Ultralytics:** Python: 3.13.15
+PyTorch: 2.11.0+cpu
+Ultralytics: 8.4.145
 
 **Checkpoint:** `yolo11n-cls.pt`, `yolo11n.pt`, `yolo11n-seg.pt`
 
